@@ -8,5 +8,6 @@ public class JavaClassFirst {
         System.out.println("Thanks for you help!");
         System.out.println("Thanks for you help!");
         System.out.println("DDDDDDDDDDDDDDDDDDDDDDDDD");
+        System.out.println("DDDDDDDDDDDDDDDDDDDDDDDDD");
     }
 }
